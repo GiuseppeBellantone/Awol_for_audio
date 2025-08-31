@@ -1,0 +1,16 @@
+{
+  "prompt": "an electronic guitar note",
+  "theta": {
+    "pitch_midi": 66.95931243896484,
+    "velocity": 74.66432189941406,
+    "sample_rate": 16000.0,
+    "duration_s": 4.000527858734131,
+    "attack_s": 0.0650370642542839,
+    "decay_s": 0.3611450791358948,
+    "sustain": 0.1398511826992035,
+    "release_s": 0.024229735136032104,
+    "mod_ratio": 0.7729206085205078,
+    "mod_index": 4.644327640533447
+  },
+  "wav": "renders\\an_electronic_guitar_note.wav"
+}

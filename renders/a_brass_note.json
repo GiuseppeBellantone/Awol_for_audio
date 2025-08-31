@@ -1,0 +1,16 @@
+{
+  "prompt": "a brass note",
+  "theta": {
+    "pitch_midi": 61.26917266845703,
+    "velocity": 75.22714233398438,
+    "sample_rate": 16000.0,
+    "duration_s": 4.000063419342041,
+    "attack_s": 0.149244025349617,
+    "decay_s": 0.3968636095523834,
+    "sustain": 0.5308615565299988,
+    "release_s": 0.022207878530025482,
+    "mod_ratio": 0.9580952525138855,
+    "mod_index": 7.5315470695495605
+  },
+  "wav": "renders\\a_brass_note.wav"
+}

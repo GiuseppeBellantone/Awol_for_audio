@@ -1,0 +1,16 @@
+{
+  "prompt": "a guitar note",
+  "theta": {
+    "pitch_midi": 68.52528381347656,
+    "velocity": 75.06614685058594,
+    "sample_rate": 16000.0,
+    "duration_s": 3.9999852180480957,
+    "attack_s": 0.016157597303390503,
+    "decay_s": 0.3991546332836151,
+    "sustain": 0.07148921489715576,
+    "release_s": 0.020186543464660645,
+    "mod_ratio": 0.9947763681411743,
+    "mod_index": 0.9996957778930664
+  },
+  "wav": "renders\\a_guitar_note.wav"
+}

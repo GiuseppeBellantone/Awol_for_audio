@@ -1,0 +1,16 @@
+{
+  "prompt": "a mandolin note",
+  "theta": {
+    "pitch_midi": 67.71051788330078,
+    "velocity": 74.08815002441406,
+    "sample_rate": 16000.0,
+    "duration_s": 4.000350475311279,
+    "attack_s": 0.06276087462902069,
+    "decay_s": 0.37300148606300354,
+    "sustain": 0.17397965490818024,
+    "release_s": 0.0221424400806427,
+    "mod_ratio": 0.6429256200790405,
+    "mod_index": 2.8961551189422607
+  },
+  "wav": "renders\\a_mandolin_note.wav"
+}
